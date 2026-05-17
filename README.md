@@ -4,6 +4,7 @@ A simple and efficient Library Management System built using PHP, MySQL, HTML, a
 This project helps manage books, readers, issuing, and returning books in a digital way.
 
 🚀 Features
+
 👥 Reader Management
 * Register new readers with complete details (name,contact no,address)
 * Edit and manage reader information
