@@ -48,12 +48,12 @@ library-management-system/
 ⚙️ Setup Instructions
 
 1. Install XAMPP
-Start:
+  Start:
 * Apache
 * MySQL
   
 2. Setup Project
-Copy project folder to:
+  Copy project folder to:
 C:\xampp\htdocs\
 
 3. Import Database
@@ -62,7 +62,7 @@ C:\xampp\htdocs\
 * Import: library_db.sql
 
 4. Run Project
-Open browser:
+   Open browser:
 http://localhost/Library/home.php
 
 
