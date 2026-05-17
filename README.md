@@ -29,31 +29,32 @@ This project helps manage books, readers, issuing, and returning books in a digi
 * Server: XAMPP (Apache)
 
 📂 Project Structure
-library-management-system/
-│
-├── home.php
-├── login.php
-├── addbook.php
-├── addreader.php
-├── viewbook.php
-├── issuebook.php
-├── returnbook.php
-├── style.css
-├── db.php
-├── deletebook.php
-├── updatebook.php
-├── index.php
-├── library_db.sql
+
+- home.php
+- login.php
+- addbook.php
+- addreader.php
+- viewbook.php
+- issuebook.php
+- returnbook.php
+- style.css
+- db.php
+- deletebook.php
+- updatebook.php
+- index.php
+- library_db.sql
 
 ⚙️ Setup Instructions
 
 1. Install XAMPP
-  Start:
+
+Start:
 * Apache
 * MySQL
   
 2. Setup Project
-  Copy project folder to:
+
+Copy project folder to:
 C:\xampp\htdocs\
 
 3. Import Database
@@ -62,7 +63,8 @@ C:\xampp\htdocs\
 * Import: library_db.sql
 
 4. Run Project
-   Open browser:
+
+Open browser:
 http://localhost/Library/home.php
 
 
