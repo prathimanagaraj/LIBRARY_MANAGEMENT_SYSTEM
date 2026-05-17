@@ -48,14 +48,14 @@ This project helps manage books, readers, issuing, and returning books in a digi
 
 1. Install XAMPP
 
-Start:
+  Start:
 * Apache
 * MySQL
   
 2. Setup Project
 
-Copy project folder to:
-C:\xampp\htdocs\
+  Copy project folder to:
+  C:\xampp\htdocs\
 
 3. Import Database
 * Open: http://localhost/phpmyadmin
@@ -64,8 +64,8 @@ C:\xampp\htdocs\
 
 4. Run Project
 
-Open browser:
-http://localhost/Library/home.php
+   Open browser:
+  http://localhost/Library/home.php
 
 
 
