@@ -58,6 +58,7 @@ C:\xampp\htdocs\
 
 3. Import Database
 Open: http://localhost/phpmyadmin
+
 Create database: library_db
 Import: library_db.sql
 
