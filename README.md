@@ -57,10 +57,9 @@ Copy project folder to:
 C:\xampp\htdocs\
 
 3. Import Database
-Open: http://localhost/phpmyadmin
-
-Create database: library_db
-Import: library_db.sql
+* Open: http://localhost/phpmyadmin
+* Create database: library_db
+* Import: library_db.sql
 
 4. Run Project
 Open browser:
