@@ -13,7 +13,7 @@ if($result)
 {
     echo "<script>
     alert('Book Deleted Successfully');
-    window.location='viewbook.php';
+    window.location='home.php?page=view';
     </script>";
 }
 
