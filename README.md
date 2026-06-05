@@ -26,7 +26,7 @@ This project helps manage books, readers, issuing, and returning books in a digi
 * Frontend: HTML, CSS
 * Backend: PHP
 * Database: MySQL
-* Server: XAMPP (Apache)
+* Server: XAMPP (Apache,MySQL)
 
 📂 Project Structure
 
