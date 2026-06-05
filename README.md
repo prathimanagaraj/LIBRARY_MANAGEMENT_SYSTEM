@@ -23,7 +23,7 @@ This project helps manage books, readers, issuing, and returning books in a digi
 * Reader contact information for follow-ups
 
 🛠️ Tech Stack
-* Frontend: HTML, CSS
+* Frontend: HTML,CSS
 * Backend: PHP
 * Database: MySQL
 * Server: XAMPP (Apache,MySQL)
