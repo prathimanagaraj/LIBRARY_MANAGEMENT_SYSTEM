@@ -6,7 +6,6 @@ $id = $_GET['id'];
 
 $sql = "DELETE FROM books
         WHERE book_id='$id'";
-
 $result = mysqli_query($conn,$sql);
 
 if($result)
